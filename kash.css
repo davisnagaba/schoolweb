@@ -1,0 +1,72 @@
+body{word-spacing:5px;
+	font-size:20px;
+text-align:center;
+
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+
+h1{color:blue;
+	
+	text-align:center;}
+	
+	h2{text-align:center;}
+	
+	#head{background:skyblue;}
+	
+#reg{
+		width:70px;
+		height:30px;}
+		
+		
+		button{background:lightgreen;
+			width:300px;
+			height:50px;
+			font-size:20px;
+		}
+		button:hover{background:green;
+			color:white;}
+			
+		
+		
+		input{height:30px;
+			width:60%;}
+			
+			h3{text-align:center;
+				color:tomato;}
+				
+				table{
+					border:5px;
+					cell-padding:5px;
+					background-color:skyblue;
+					margin-left:350px;
+					background-repeat:no-repeat;
+					background-size:cover;
+				}
+					
+				a.box{border:solid 0.5px blue ;
+					border-width:100%;
+						border-height:50px;
+						border-radius:5px;
+						color:blue;
+						background:silver;
+						background-width:100%;
+					}
+					a:hover{color:orange;
+					
+					
+					
+					footer{
+					  padding:20px;
+					  margin-top:20px;
+					  color:black;
+					  background-color:orange;
+					  text-align: center;
+				  }
+			
+					  
+					  
+					
+	
+	
